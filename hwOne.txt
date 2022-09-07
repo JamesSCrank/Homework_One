@@ -1,1 +1,1 @@
-Hello, my name is "James Crank"
+Hello, my name is "James Crank" and I am working on hw1
